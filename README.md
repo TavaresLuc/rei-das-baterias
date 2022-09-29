@@ -1,5 +1,22 @@
 # rei-das-baterias
-<h3>Website responsivo de uma loja local feito apenas para propósito estudantil. Alguns bugs podem ser encontrados, também algumas imagens no carrossel que não fazem parte da temática correta, projeto parado mas corrigirei em breve.</h3>
-  <ul><li>Site OnePage apenas para teste de integração <strong>API'S</strong> e uso do <strong>BootStrap.</strong></li>
-  
-  <li>Visit it on <a href="https://rei-das-baterias.vercel.app">Vercel</a> (Vercel doesn't support Google Maps API)</li></ul>
+
+<h2> 🚀 Tecnologias</h2>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+
+- HTML5
+- CSS3
+- SCSS
+- JavaScript
+- PHP
+- BootStrap
+
+<h2> 💻 Projeto</h2>
+Site feito para uma loja local apenas com propósitos estudantis.
+
+<h2> 🔖 Layout </h2>
+Nos links abaixo você encontra o layout do projeto web reponsivo.
+
+[O Rei das Baterias][orei]
+
+[orei]:https://rei-das-baterias.vercel.app/
