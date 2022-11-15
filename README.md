@@ -10,7 +10,7 @@
 ## 💻 Project
 Single Page Application - Respsonsive Website made for a local store;
 
-##🚀 Technologies
+## 🚀 Technologies
 
 - HTML5
 - CSS3
