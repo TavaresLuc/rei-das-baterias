@@ -1,8 +1,16 @@
-# rei-das-baterias
+<h1 align="center"> O Rei das Baterias </h1>
 
-<h2> 🚀 Tecnologias</h2>
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+<p align="center">
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-License">License</a>
+</p>
 
+## 💻 Project
+#### 🚀  Single Page Application - Respsonsive Website made for a local store;
+
+<h2> 🚀 Technologies</h2>
 
 - HTML5
 - CSS3
@@ -11,12 +19,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - PHP
 - BootStrap
 
-<h2> 💻 Projeto</h2>
-Site feito para uma loja local apenas com propósitos estudantis.
-
 <h2> 🔖 Layout </h2>
-Nos links abaixo você encontra o layout do projeto web reponsivo.
+You can see the project by [clicking here](https://rei-das-baterias.vercel.app/)
 
-[O Rei das Baterias][orei]
+## :memo: License
 
-[orei]:https://rei-das-baterias.vercel.app/
+This project is under MIT license.
+
+---
+
+Made with Code and ❤️ by Lucas Tavares
