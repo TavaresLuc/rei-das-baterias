@@ -10,7 +10,7 @@
 ## 💻 Project
 #### 🚀  Single Page Application - Respsonsive Website made for a local store;
 
-<h2> 🚀 Technologies</h2>
+##🚀 Technologies
 
 - HTML5
 - CSS3
@@ -19,8 +19,8 @@
 - PHP
 - BootStrap
 
-<h2> 🔖 Layout </h2>
-You can see the project by [clicking here](https://rei-das-baterias.vercel.app/)
+## 🔖 Layout 
+You can see the project by (clicking here)[https://rei-das-baterias.vercel.app/]
 
 ## :memo: License
 
