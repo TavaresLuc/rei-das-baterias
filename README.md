@@ -8,7 +8,7 @@
 </p>
 
 ## 💻 Project
-#### 🚀  Single Page Application - Respsonsive Website made for a local store;
+Single Page Application - Respsonsive Website made for a local store;
 
 ##🚀 Technologies
 
@@ -20,7 +20,7 @@
 - BootStrap
 
 ## 🔖 Layout 
-You can see the project by (clicking here)[https://rei-das-baterias.vercel.app/]
+You can see the project by [clicking here](https://rei-das-baterias.vercel.app/)
 
 ## :memo: License
 
